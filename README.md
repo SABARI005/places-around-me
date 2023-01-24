@@ -128,28 +128,15 @@ The long term goal of CoE-AER is to develop a centre for research and developmen
 ## Output:
 ## map:
 ![Screenshot from 2023-01-24 22-15-44](https://user-images.githubusercontent.com/118660461/214363713-108f48f4-cfaf-479f-9e42-51e695d5a2e3.png)
-
 ## cse:
 ![Screenshot from 2023-01-24 22-15-53](https://user-images.githubusercontent.com/118660461/214363784-5f4f1f24-3730-4ae1-a649-fb8b4a561d60.png)
 ## ece :
-
 ![Screenshot from 2023-01-24 22-16-40](https://user-images.githubusercontent.com/118660461/214363837-1f3b29ed-282f-4caf-ac89-a95dce636774.png)
 # library:
-
 ![Screenshot from 2023-01-24 22-16-10](https://user-images.githubusercontent.com/118660461/214363856-e9e112e7-40d3-4af0-ac9d-44a0abad4141.png)
 ## mechanical:
-
 ![Screenshot from 2023-01-24 22-16-50](https://user-images.githubusercontent.com/118660461/214363878-2fc92c62-3d6a-4614-86cb-b41151c7a514.png)
 ## eee:
 ![Screenshot from 2023-01-24 22-16-20](https://user-images.githubusercontent.com/118660461/214363891-66b67215-0123-4361-b68b-2d6a37c35db5.png)
-
-
-
-
-
-
-
-
-
 ## Result:
-Write your result
+mapping program was executed successfully
